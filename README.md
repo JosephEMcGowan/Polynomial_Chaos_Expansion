@@ -1,6 +1,6 @@
 <hr>  </hr>
 
-<a href="https://github.com/nickabattista/Holy_Grail"><img src="https://github.com/JosephEMcGowan/Polynomial_Chaos_Expansion/blob/main/SensitivityIndicies.jpg" align="right" height="165" width="495" ></a>
+<a href="https://github.com/nickabattista/Holy_Grail"><img src="https://github.com/JosephEMcGowan/Polynomial_Chaos_Expansion/blob/main/SensitivityIndicies.jpg" align="right" height="400" width="533" ></a>
 <H1> Polynomial Chaos Expansions </H1>
 
 Author: Joseph E. McGowan, <br>
